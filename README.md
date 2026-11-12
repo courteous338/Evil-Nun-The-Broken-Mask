@@ -203,4 +203,4 @@ This repository serves as the official landing page for Evil Nun: The Broken Mas
 **Get the most recent version of Evil Nun: The Broken Mask today!**
 
 ---
-**Last updated:** 2026-11-12 01:15:43 UTC
+**Last updated:** 2026-11-12 09:10:11 UTC
